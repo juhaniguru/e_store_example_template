@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+strawberry-graphql[fastapi]
+mysql-connector-python
+sqlalchemy
